@@ -37,7 +37,6 @@ inquirer
         ]).then(function(ans) {
           var playerHand = [];
           shuffle(); 
-          console.log(ans.players);
           for(var i = 0; i < (52 / ans.players); i++) {
             var card = deck.shift();
             playerHand.push(card);

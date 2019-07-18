@@ -11,3 +11,5 @@ This app uses Node.js as well as a package for Node called inquirer.
 1. Once the package has installed, type 'node cards' in the command prompt to begin using the app. 
 2. The app will prompt you in the command line to choose one of two options. 
 3. Type the number of the option you would like and hit the enter key to continue.
+
+In order to exit the app, press ctl+c while in the command prompt.
